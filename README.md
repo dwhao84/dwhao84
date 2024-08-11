@@ -1,5 +1,5 @@
 #  Dawei
-#### Hi I'm Dawei! 
+#### Hi, I'm Dawei.
 #### An iOS developer from Taiwan 🇹🇼.
 #### My passion is about software development.
 
