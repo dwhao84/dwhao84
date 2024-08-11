@@ -11,5 +11,5 @@
 
 #### Here is my personal project on App Store.
 <p align="center">
-<img src="https://github.com/dwhao84/Conductor-Cross-Section-Calculation/blob/53246e74bc30fdd701081338a39244be3442dbfc/Calculation/Assets.xcassets/UI.imageset/CleanShot%202024-06-30%20at%2023.02.24%402x.png" width="428" height="810"/>
+<img src="https://github.com/dwhao84/dwhao84/blob/dba87784da793d34b5a88c446a70fe1d87ace796/%E9%9B%BB%E6%B0%A3%E7%AE%A1%E7%B7%9A%E9%81%B8%E6%93%87%E5%99%A8-1280x720.png" width="1280" height="720"/>
 </p> 
