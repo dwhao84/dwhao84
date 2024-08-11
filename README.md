@@ -9,8 +9,8 @@
 <a href="https://www.buymeacoffee.com/Dawei_dev84" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> 
 
 - 🛒 Here is my personal project on App Store.
-<p align="center">
+<p align="left">
   <a href="https://apple.co/4dhR7vf" target="_blank">
-    <img src="https://github.com/dwhao84/dwhao84/blob/dba87784da793d34b5a88c446a70fe1d87ace796/%E9%9B%BB%E6%B0%A3%E7%AE%A1%E7%B7%9A%E9%81%B8%E6%93%87%E5%99%A8-1280x720.png" width="1280" height="550"/>
+    <img src="https://github.com/dwhao84/dwhao84/blob/4637cafef0fadcbbf5ca2bb1daac07d67d335b63/%E9%9B%BB%E6%B0%A3%E7%AE%A1%E7%B7%9A%E9%81%B8%E6%93%87%E5%99%A8-1080x1080.png" width="350" height="350"/>
   </a>
 </p>
