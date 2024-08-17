@@ -1,7 +1,8 @@
 #  Dawei
 #### Hi, I'm Dawei.
 An iOS developer from Taiwan 🇹🇼.
-My passion is about software development.
+
+My passion is about iOS development, and Web development.
 
 - 📫 How to reach me **dwsamurai84@gmail.com**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwhao84&show_icons=true&locale=en" alt="dwhao84" /></p>
