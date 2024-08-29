@@ -2,7 +2,7 @@
 #### Hi, I'm Dawei.
 An iOS developer from Taiwan 🇹🇼.
 
-My passion is about iOS development, and Web development.
+My passion is main focus on iOS development.
 
 - 📫 How to reach me **dwsamurai84@gmail.com**
 
