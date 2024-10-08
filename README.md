@@ -1,6 +1,6 @@
 #  Dawei
 #### Hi, I'm Dawei.
-An iOS developer from Taiwan 🇹🇼 specializing in iOS development.
+An iOS developer from Taiwan 🇹🇼 in iOS development.
 
 📫 **Contact**: [dwhao.dev84@gmail.com](mailto:dwhao.dev84@gmail.com)
 
