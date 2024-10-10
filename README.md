@@ -8,8 +8,9 @@ An iOS developer from Taiwan 🇹🇼 in iOS development.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwhao84&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwhao84&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwhao84&layout=donut&theme=radical" />
 </div>
+
 
 ---
 
