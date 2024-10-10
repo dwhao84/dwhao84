@@ -8,7 +8,7 @@ An iOS developer from Taiwan 🇹🇼 in iOS development.
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dwhao84&show_icons=true&theme=radical" alt="Dawei's GitHub stats" /> 
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwhao84&layout=compact&theme=radical" alt="Dawei's Most Used Languages" />
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwhao84&layout=compact&theme=radical" alt="Dawei's Most Used Languages" />
 </div>
 
 
