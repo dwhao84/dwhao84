@@ -2,7 +2,7 @@
 #### Hi, I'm Dawei.
 An iOS developer from Taiwan 🇹🇼 in iOS development.
 
-📫 **Contact**: [dwhao.dev84@gmail.com](mailto:dwhao.dev84@gmail.com)
+📫 **Contact**: [dwsamurai84@gmail.com](mailto:dwsamurai84@gmail.com)
 
 ---
 
