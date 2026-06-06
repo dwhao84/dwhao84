@@ -19,13 +19,6 @@ Currently exploring backend development with **FastAPI** and **PostgreSQL**.
 
 ---
 
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-dwsamurai84%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwsamurai84@gmail.com)
-
----
-
 ## Support Me
 
 If you like my work, you can support me here:
