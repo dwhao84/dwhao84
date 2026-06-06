@@ -9,7 +9,7 @@ Currently exploring backend development with **FastAPI** and **PostgreSQL**.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### iOS Development
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -27,7 +27,7 @@ Currently exploring backend development with **FastAPI** and **PostgreSQL**.
 
 ---
 
-## 📱 What I Build
+## What I Build
 
 - iOS apps with **SwiftUI** and **UIKit**
 - Personal tools that solve real-life problems
@@ -37,7 +37,7 @@ Currently exploring backend development with **FastAPI** and **PostgreSQL**.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dwhao84&theme=nord_bright)
 
@@ -49,7 +49,7 @@ Currently exploring backend development with **FastAPI** and **PostgreSQL**.
 
 ---
 
-## 🚀 Currently Learning
+## Currently Learning
 
 - Backend API development with **FastAPI**
 - Database design with **PostgreSQL**
@@ -58,13 +58,13 @@ Currently exploring backend development with **FastAPI** and **PostgreSQL**.
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-dwsamurai84%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwsamurai84@gmail.com)
 
 ---
 
-## ☕ Support Me
+## Support Me
 
 If you like my work, you can support me here:
 
