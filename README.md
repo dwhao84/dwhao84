@@ -7,7 +7,6 @@ I build iOS apps with **Swift**, **SwiftUI**, and **UIKit**.
 
 Currently exploring backend development with **FastAPI** and **PostgreSQL**.
 
-> From visual design to iOS development, I enjoy turning ideas into useful and beautiful apps.
 
 ---
 
